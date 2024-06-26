@@ -1,4 +1,5 @@
 # AICUP 2023 NLP
+[CERTIFICATION](https://global.turingcerts.com/en/co/cert?hash=0xaf93e0a5adacb3e964943edc2363fd9c1182eada32d36549cac81a592771017d0000)
 This contest is about NLI tasks this year.
 They will input a claim and we need to judge if this claim "supports", "refutes" or "not enough info"
 If they are supports or refutes, we need to provide evidences.
